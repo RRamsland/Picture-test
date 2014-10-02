@@ -19,6 +19,7 @@ body
 	background-color:red;
 	float:left;
 	clear:left;
+	background-image:url("http://9pixs.com/wp-content/uploads/2014/06/stock-photography_1404139516.jpg");
 }
 .col:hover
 {
@@ -28,10 +29,12 @@ body
 {
 	background-color:green;
 	float:left;
+	background-image:url("http://fc01.deviantart.net/fs17/f/2007/129/7/4/Stock_032__by_enchanted_stock.jpg");
 }
 .col3
 {
 	background-color:yellow;
 	float:right;
 	clear:right;
+	background-image:url("http://images.tentebranda.org/wp-content/uploads/stock-image_6953_1.jpg");
 }
